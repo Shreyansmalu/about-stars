@@ -1,0 +1,16 @@
+.logo{
+    background-color: white;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.row{
+    display : flex;
+}
+
+.column{
+    padding-right : 30px;
+    padding-bottom: 25px;
+}
